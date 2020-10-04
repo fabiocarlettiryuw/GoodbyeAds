@@ -56,6 +56,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.simplisafe.com
 0.0.0.0 api.tastyworks.com
 0.0.0.0 api.zwizzarmyknife.com
+0.0.0.0 azporncomics.com
 0.0.0.0 app-measurement.com 
 0.0.0.0 app.adjust.com
 0.0.0.0 ati-host.net
